@@ -6,6 +6,6 @@ toute autre comit sera automatiquement suprimer.
 Si vous voulez la playlist actuel liser le bloc note : playlist 
 
 
-Pour ce qui n'est pas familier a git hub merci se regarde un tutorielle :)
+Pour ceux qui ne sont familier avec git hub merci se regarder un tutorielle :)
 
 merci pour vos proposition
