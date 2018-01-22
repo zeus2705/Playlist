@@ -1,0 +1,9 @@
+mettez vos requests sous la forme : (titre)   -    (auteur)   -    (lien(optionel))
+
+exemple: tchoin  - Karris - https://www.youtube.com/watch?v=gIlGnaefCck
+
+------------------------------------------------------------------------------------
+                                 Request Here
+------------------------------------------------------------------------------------
+ecrivez ici.
+
