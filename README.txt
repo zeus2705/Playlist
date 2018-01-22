@@ -1,6 +1,7 @@
 
 
-Pour pouvoir proposer vaut musique merci de me commis vaut changement sur le bloc note :playslist_request sous la forme (titre auteur lien(optionnel)) 
+Pour pouvoir proposer vaut musique merci de me commit vaut changement sur le bloc note :playslist_request sous la forme (titre auteur lien(optionnel)) 
+toute autre comit sera automatiquement suprimer.
 
 Si vous voulez la playlist actuel liser le bloc note : playlist 
 
