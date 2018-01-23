@@ -1,4 +1,4 @@
-mettez vos requests sous la forme : (titre)   -    (auteur)   -    (lien(optionel))
+mettez vos requests sous la forme : (titre)   -    (auteur)   -    (lien(pas de lien de telerchagement))
 
 exemple: tchoin  - Karris - https://www.youtube.com/watch?v=gIlGnaefCck
 
